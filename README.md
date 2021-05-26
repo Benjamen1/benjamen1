@@ -7,7 +7,7 @@ Software Developer in the land down under
 <h3>🛠 My Tech Stack</h3>
 
 - 💻 &nbsp; Java | Ruby  
-- 🌐 &nbsp;  | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Xampp | WordPress
 - 🔧 &nbsp; Atom | PyCharm | Visual Studio code | Netbeans | Git
 - 🖥 &nbsp; Premiere Pro | Illustrator | Photoshop 
