@@ -1,5 +1,7 @@
 
-<h3>  👋 About Me </h3>
+<h3> Hello  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h3> 
+
+
 Software Developer in the land down under
 
 <h3>🛠 My Tech Stack</h3>
